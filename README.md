@@ -1,1 +1,1 @@
-# all-paterns
+# all-patterns
